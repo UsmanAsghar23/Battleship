@@ -1,10 +1,3 @@
-/**
- Program 4: BS
- Course: CS 342, Spring 2024, UIC
- Authors: Mohammad Ayesh and Shareek Shaffie and Yusuf Ahmedjeelani and Usman Asghar
- NetID: mayes3 and smoha45 and yahme7 and uasgh2
- File Description: This Java file implements messaging app
- */
 
 import java.io.Serializable;
 import java.util.ArrayList;
